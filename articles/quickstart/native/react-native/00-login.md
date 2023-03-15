@@ -99,6 +99,7 @@ Next, add a URLScheme using your App's bundle identifier.
 
 In the `ios` folder, open the `Info.plist` and locate the value for `CFBundleIdentifier`
 
+
 ```xml
 <key>CFBundleIdentifier</key>
 <string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
